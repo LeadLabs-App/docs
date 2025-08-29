@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "LeadLabs Knowledgebase",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#0b4f62",
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/LeadLabsbluefavicon.png",
   "navigation": {
     "tabs": [
       {
@@ -89,20 +89,20 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/LeadLabsBluelogofinal.png",
+    "dark": "/logo/LeadLabsBluelogofinal.png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:hello@leadlabs.app"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Install Extension",
+      "href": "https://leadlabs.app/install"
     }
   },
   "contextual": {
@@ -119,9 +119,7 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "linkedin": "https://linkedin.com/company/leadlabs-app"
     }
   }
 }
