@@ -22,7 +22,8 @@
           {
             "group": "Features",
             "pages": [
-              "Features/Comment-Generator"
+              "Features/Comment-Generator",
+              "Features/Data"
             ]
           },
           {
