@@ -20,6 +20,12 @@
             ]
           },
           {
+            "group": "Features",
+            "pages": [
+              "Features/Comment-Generator"
+            ]
+          },
+          {
             "group": "Getting started",
             "pages": [
               "index",
