@@ -23,7 +23,8 @@
             "group": "Features",
             "pages": [
               "Features/Comment-Generator",
-              "Features/Data"
+              "Features/Data",
+              "Features/Canvas-Creation"
             ]
           },
           {
