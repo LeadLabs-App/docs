@@ -24,7 +24,8 @@
             "pages": [
               "Features/Comment-Generator",
               "Features/Data",
-              "Features/Canvas-Creation"
+              "Features/Canvas-Creation",
+              "Features/Workflows"
             ]
           },
           {
