@@ -8,6 +8,13 @@
     "dark": "#15803D"
   },
   "favicon": "/LeadLabsbluefavicon.png",
+  "seo": {
+    "metatags": {
+        "og:image": "/images/LeadLabsKnowledgeBase.png",
+        "og:title": "LeadLabs Knowledge Base",
+        "description": "Everything you need to know about LeadLabs in one place"
+    }
+},
   "navigation": {
     "tabs": [
       {
