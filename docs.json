@@ -38,7 +38,8 @@
           {
             "group": "Settings",
             "pages": [
-              "Settings/Persona"
+              "Settings/Persona",
+              "Settings/Signal-Workflow"
             ]
           }
         ]
