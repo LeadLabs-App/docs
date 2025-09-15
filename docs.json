@@ -39,7 +39,8 @@
             "group": "Settings",
             "pages": [
               "Settings/Persona",
-              "Settings/Signal-Workflow"
+              "Settings/Signal-Workflow",
+              "Settings/Signal-Preference"
             ]
           }
         ]
