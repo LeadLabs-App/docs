@@ -32,7 +32,8 @@
               "Features/Comment-Generator",
               "Features/Data",
               "Features/Canvas-Creation",
-              "Features/Workflows"
+              "Features/Workflows",
+              "Features/Gmail"
             ]
           },
           {
