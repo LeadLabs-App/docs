@@ -33,6 +33,7 @@
               "Features/Data",
               "Features/Canvas-Creation",
               "Features/Workflows",
+              "Features/web-search",
               "Features/Gmail"
             ]
           },
